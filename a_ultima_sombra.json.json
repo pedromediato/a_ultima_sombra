@@ -2051,6 +2051,110 @@
         "name": "personagem-removebg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/botao_esquerda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_esquerda",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_esquerda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/botao_esquerda2.png\"}",
+        "name": "botao_esquerda2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_esquerda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_esquerda3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_esquerda4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_esquerda4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_esquerda5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_esquerda5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao direita2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao direita",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_pular2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_pular",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/botao_dash2.png\"}",
+        "name": "botao_dash",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_dash2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/botao_dash3.png\"}",
+        "name": "botao_dash3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_dash4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_dash5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/botao_dash6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "botao_dash6",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -3181,7 +3285,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44819780454105096,
+        "zoomFactor": 0.6455105703311714,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -3190,49 +3294,41 @@
       "variables": [
         {
           "name": "posicaoUltimaChunk",
-          "persistentUuid": "ad1eebbe-b66d-45a5-87b0-59ced49c7ad9",
           "type": "number",
           "value": 1280
         },
         {
           "name": "Tiro",
-          "persistentUuid": "cce03763-664c-4f00-9d07-ba9cee507138",
           "type": "number",
           "value": 0
         },
         {
           "name": "Angulo",
-          "persistentUuid": "2dcc33c9-e991-44d5-bf0d-6ebbf8589368",
           "type": "number",
           "value": 0
         },
         {
           "name": "Pontos_Trevas",
-          "persistentUuid": "efb18f5a-86e2-46b5-bc30-c19f1993a596",
           "type": "number",
           "value": 0
         },
         {
           "name": "Pontos_Proximo_Level",
-          "persistentUuid": "e25a6ed0-3a7e-49c8-a4b6-22300c5785a4",
           "type": "number",
           "value": 20
         },
         {
           "name": "Fada_Spawn_Max",
-          "persistentUuid": "45d131df-25e4-4017-97ab-4af3f308f92f",
           "type": "number",
           "value": 2
         },
         {
           "name": "Fada_Velocidade",
-          "persistentUuid": "583e0ce7-bbaa-471e-90a8-a0814ccf2f5d",
           "type": "number",
           "value": 100
         },
         {
           "name": "Sorteio_Dificuldade",
-          "persistentUuid": "d996a5e0-ee60-48c6-b9cd-3a83bf1a0b32",
           "type": "number",
           "value": 0
         }
@@ -3819,8 +3915,8 @@
           "name": "botao_esquerda",
           "persistentUuid": "36d1f5f2-fc4a-4cb3-a860-a5835e14aecd",
           "width": 116,
-          "x": 49,
-          "y": 589,
+          "x": 40,
+          "y": 570,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -3830,13 +3926,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 111,
+          "height": 112,
           "layer": "UI",
           "name": "botao_direita",
           "persistentUuid": "4d0b1bd9-44a5-440c-9373-ccce213828ce",
-          "width": 115,
-          "x": 167,
-          "y": 592,
+          "width": 116,
+          "x": 162,
+          "y": 570,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -3845,15 +3941,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 105,
-          "keepRatio": true,
+          "depth": 0.983050847457627,
+          "height": 112,
           "layer": "UI",
           "name": "botao_pular",
           "persistentUuid": "ae0ef53c-f1d8-417a-82e9-90f95d873ec2",
-          "width": 118,
-          "x": 105,
-          "y": 459,
+          "width": 116,
+          "x": 1138,
+          "y": 570,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -3862,15 +3957,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 102,
-          "keepRatio": true,
+          "depth": 1,
+          "height": 112,
           "layer": "UI",
           "name": "botao_dash",
           "persistentUuid": "1d8e88e3-d3a2-41b2-ac7b-ea9d83504c55",
-          "width": 112,
-          "x": 208,
-          "y": 356,
+          "width": 116,
+          "x": 214,
+          "y": 428,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -3886,8 +3980,8 @@
           "name": "JoystickTiro",
           "persistentUuid": "a375e049-dd82-4410-b98a-2a2de64a1be2",
           "width": 126,
-          "x": 1162,
-          "y": 598,
+          "x": 1083,
+          "y": 531,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -9210,16 +9304,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "botao_esquerda",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "botao_esquerda.png",
+                      "image": "botao_esquerda4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9235,20 +9330,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 13,
-                            "y": 3
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 291,
-                            "y": 3
+                            "x": 63,
+                            "y": 1
                           },
                           {
-                            "x": 291,
-                            "y": 286
+                            "x": 63,
+                            "y": 63
                           },
                           {
-                            "x": 13,
-                            "y": 286
+                            "x": 1,
+                            "y": 63
                           }
                         ]
                       ]
@@ -9292,16 +9387,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "botao direita",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "botao direita.png",
+                      "image": "botao direita",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9317,20 +9413,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 7,
-                            "y": 5
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 285,
-                            "y": 5
+                            "x": 63,
+                            "y": 1
                           },
                           {
-                            "x": 285,
-                            "y": 278
+                            "x": 63,
+                            "y": 63
                           },
                           {
-                            "x": 7,
-                            "y": 278
+                            "x": 1,
+                            "y": 63
                           }
                         ]
                       ]
@@ -9374,16 +9470,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "botao_pular",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "botao_pular.png",
+                      "image": "botao_pular",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9399,20 +9496,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 14,
-                            "y": 25
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 360,
-                            "y": 25
+                            "x": 63,
+                            "y": 1
                           },
                           {
-                            "x": 360,
-                            "y": 317
+                            "x": 63,
+                            "y": 63
                           },
                           {
-                            "x": 14,
-                            "y": 317
+                            "x": 1,
+                            "y": 63
                           }
                         ]
                       ]
@@ -9456,16 +9553,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "botao_dash",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "botao_dash.png",
+                      "image": "botao_dash6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9481,20 +9579,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 15
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 359,
-                            "y": 15
+                            "x": 63,
+                            "y": 1
                           },
                           {
-                            "x": 359,
-                            "y": 323
+                            "x": 63,
+                            "y": 63
                           },
                           {
-                            "x": 3,
-                            "y": 323
+                            "x": 1,
+                            "y": 63
                           }
                         ]
                       ]
@@ -10889,8 +10987,29 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "JoystickTiro",
+                "Opacity",
+                "=",
+                "140"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::ForEach",
